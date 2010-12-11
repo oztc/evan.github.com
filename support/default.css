@@ -1,0 +1,79 @@
+* { 
+  margin: 0; 
+  padding: 0;
+}
+img {
+  border: 0;
+}
+
+body { 
+  font-family: helvetica, arial, sans-serif; 
+  text-align: center; 
+  color: #111;
+  background-color: #fff;
+}
+div.box {
+    width: 500px;
+    margin: 0 auto;
+}
+
+div.text {
+    text-align: left;
+    width: 500px;    
+}
+
+p { 
+  padding-top: 20px; 
+  line-height: 120%;
+}
+.heading {
+    font-weight: bold;
+    font-size: 22px;
+}
+.highlight {
+    color: #795;
+}
+#banner {
+  padding-top: 20px;
+  font-size: 52px;
+  font-weight: bold;
+  #padding-bottom: 20px;
+  margin-bottom: -20px;
+}
+p.links {
+  font-weight: normal;
+  line-height: 130%;
+  font-size: 20px;
+}
+a:link, a:visited, p.divider {
+  text-decoration: none;
+  color: #795;
+} p.divider {
+  text-align: center;
+}
+
+a:hover, a:active {
+  color: #FA2;
+}
+img {
+  border: none;
+}
+a.app_title {
+  font-weight: bold;
+}
+p.internal {
+  color: #999;
+  font-weight: normal;  
+} p.internal a:link, p.internal a:visited {
+  color: #999;
+} p.internal a:hover, a:active {
+  color: #FA2;
+}
+
+table {
+  padding: 12px 0;
+} td {
+  padding: 0 2px;  
+} td.price {
+  text-align: right;
+}
