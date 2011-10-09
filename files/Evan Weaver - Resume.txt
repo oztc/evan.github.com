@@ -16,7 +16,7 @@ on deck" crisis responses to successful completion.
 
 AREAS OF EXPERTISE
 
-Management.
+Management:
   - Sourcing, recruiting and closing candidates
   - Crisis leadership
   - Mitigating speculative project risk
@@ -24,7 +24,7 @@ Management.
   - Legal aspects of software development and startups
   - Negotiation
 
-Technical.
+Technical:
   - Performance analysis
   - System architecture
   - Web scalability and caching
@@ -55,7 +55,7 @@ increasingly challenging positions in engineering leadership.
     With minimal guidance, I found my way as a personnel manager and built
     several world-class teams.
       - Grew my department from 7 to 25 engineers in one year
-      - Delivered scalable tweet storage as a service
+      - Delivered scalable Tweet storage as a service
       - Led 2 cross-functional crisis teams
 
   Infrastructure Team Technical Lead. 2009-2010.
@@ -65,16 +65,16 @@ increasingly challenging positions in engineering leadership.
       - Healed cultural divide between operations and engineering teams
 
   Member of Technical Staff. 2008-2009.
-     Taking a paycut to come work at a risky startup, I immediately became
-      involved in the mission-critical scalability and performance work would
-      consume Twitter for the next 2 years.
+    Taking a pay cut to come work at a risky startup, I immediately became
+    involved in the mission-critical scalability and performance work that would
+    consume Twitter for the next 2 years.
       - Saved the company by decreasing cost-per-transaction by 98%
       - Scaled the API
 
 CBS Interactive. San Francisco, CA. 2006-2008.
 
-I was a software engineer in the Lifestyle group at CBS Interactive, where I cut
-my teeth on high-scale Ruby on Rails websites.
+I was a software engineer in the Lifestyle group at CBS Interactive, where I
+first cut my teeth on high-scale Ruby on Rails websites.
 
   Senior Software Engineer. 2006-2008.
     - Architected and launched a total rewrite of UrbanBaby.com
