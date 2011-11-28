@@ -9,6 +9,12 @@ specialize in performance analysis and web scalability. As a manager, I focus on
 team-building and delivering software in limited-resource environments--a kind
 of human performance engineering.
 
+I've designed, built, and maintained server-side software at all levels of
+scale, including distributed databases, caching architectures, VM garbage
+collectors, object mappers, and domain-specific business functions. I've
+developed practical, innovative algorithms that were later validated by academic
+research.
+
 I have recruited and hired dozens of candidates, negotiated and closed
 multi-million dollar business deals, reorganized teams, mentored staff facing
 career and personal issues, rescued other managers' projects, and led "all hands
@@ -28,6 +34,7 @@ Technical:
   - Performance analysis
   - System architecture
   - Web scalability and caching
+  - Distributed databases
   - MySQL optimization
   - Ruby on Rails
 
