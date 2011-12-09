@@ -2,6 +2,11 @@ Evan Weaver
 
 evan@cloudbur.st
 
+OBJECTIVE
+
+I'm occupied with an undisclosed project, and not interested in employment
+inquiries at this time.
+
 PROVEN LEADERSHIP IN SOFTWARE ENGINEERING
 
 I am a software engineer and manager, living in San Francisco. As an engineer, I
@@ -37,11 +42,6 @@ Technical:
   - Distributed databases
   - MySQL optimization
   - Ruby on Rails
-
-OBJECTIVE
-
-I'm occupied with an undisclosed project, and not interested in employment
-inquiries at this time.
 
 PROFESSIONAL EXPERIENCE
 
